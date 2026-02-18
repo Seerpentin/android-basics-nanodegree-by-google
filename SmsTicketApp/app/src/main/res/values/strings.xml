@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Ticket</string>
+    <string name="board_number_hint">Numar de bord (4 cifre)</string>
+    <string name="send">Send</string>
+</resources>
